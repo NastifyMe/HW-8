@@ -9,7 +9,7 @@
 .lessons tr:last-child td {
   color: rgb(82, 213, 59);
 }
-.lessons tr:first-child td {
+.lessons tr:first-child td{
   color: blue;
 }
 .lessons tr:focus td {
